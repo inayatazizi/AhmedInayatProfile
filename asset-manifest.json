@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ahmedinayatprofile/static/css/main.a79213c2.chunk.css",
+    "main.js": "/ahmedinayatprofile/static/js/main.3019730b.chunk.js",
+    "main.js.map": "/ahmedinayatprofile/static/js/main.3019730b.chunk.js.map",
+    "runtime-main.js": "/ahmedinayatprofile/static/js/runtime-main.8be93687.js",
+    "runtime-main.js.map": "/ahmedinayatprofile/static/js/runtime-main.8be93687.js.map",
+    "static/css/2.8e2610c1.chunk.css": "/ahmedinayatprofile/static/css/2.8e2610c1.chunk.css",
+    "static/js/2.6db30e6f.chunk.js": "/ahmedinayatprofile/static/js/2.6db30e6f.chunk.js",
+    "static/js/2.6db30e6f.chunk.js.map": "/ahmedinayatprofile/static/js/2.6db30e6f.chunk.js.map",
+    "index.html": "/ahmedinayatprofile/index.html",
+    "precache-manifest.75a136bae53902eba7d07a850a7b981f.js": "/ahmedinayatprofile/precache-manifest.75a136bae53902eba7d07a850a7b981f.js",
+    "service-worker.js": "/ahmedinayatprofile/service-worker.js",
+    "static/css/2.8e2610c1.chunk.css.map": "/ahmedinayatprofile/static/css/2.8e2610c1.chunk.css.map",
+    "static/css/main.a79213c2.chunk.css.map": "/ahmedinayatprofile/static/css/main.a79213c2.chunk.css.map",
+    "static/js/2.6db30e6f.chunk.js.LICENSE.txt": "/ahmedinayatprofile/static/js/2.6db30e6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8be93687.js",
+    "static/css/2.8e2610c1.chunk.css",
+    "static/js/2.6db30e6f.chunk.js",
+    "static/css/main.a79213c2.chunk.css",
+    "static/js/main.3019730b.chunk.js"
+  ]
+}
